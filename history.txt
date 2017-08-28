@@ -1,1 +1,2 @@
 INIT manifest.txt f82cb41c57cb6209628be318e451898107bf2e432126c9448a6985b9d1736b2a
+ADD /security-thoughts/Backdooring_In_Intel_ID.md 	9949e95fe4b70f2c654bc2c535780ae529835f3c03ee84d29c7912b04ade129d
